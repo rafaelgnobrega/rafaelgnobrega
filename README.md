@@ -3,7 +3,7 @@
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Estudando front-end
-- 🧑🏻‍🎨 Experiencia com Ui/Ux 
+- 🧑🏻‍🎨 Experiência com Ui/Ux 
 - 🎨 Figma Designer
 - 📬 Contate-me no email: rafaelnobrega6@gmail.com
 <br>
