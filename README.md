@@ -3,7 +3,7 @@
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 Estudando front-end
-- 🧑🏻‍🎨 Ui/Ux 
+- 🧑🏻‍🎨 UI/UX 
 - 🎨 Figma Designer
 - 📬 Contate-me no email: rafaelnobrega6@gmail.com
 <br>
@@ -14,9 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgnobrega&layout=compact&langs_count=16&theme=tokyonight" src="https://github.com/rafaelgnobrega/github-readme-stats">
 </div>
 <br> 
+
+## Linguagens, Frameworks e Ferramentas:
+
 <div>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=js,html,git,css,figma,postgres,nodejs" style="max-width: 100%;">
 </div>
 <br>
   
