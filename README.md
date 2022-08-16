@@ -18,7 +18,7 @@
 ## Linguagens, Frameworks e Ferramentas:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,git,css,figma,postgres,nodejs,react,sass" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=vscode,js,html,git,css,figma,postgres,nodejs,react,sass" style="max-width: 100%;">
 </div>
 <br>
   
