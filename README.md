@@ -33,7 +33,5 @@
   </div>
   <br>
   <br>
-  
-  ## Commits
 
-  ![Snake animation](https://github.com/rafaelgnobrega/rafaelgnobrega/blob/output/github-contribution-grid-snake.svg)
+
