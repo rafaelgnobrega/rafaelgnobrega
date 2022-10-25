@@ -9,7 +9,7 @@
 <br>
 
 <div> 
-  <a href="https://rafaelgnobrega.github.io/portfolio/">
+  <a href="https://portfolio-nobrega.vercel.app">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgnobrega&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgnobrega&layout=compact&langs_count=16&theme=tokyonight" src="https://github.com/rafaelgnobrega/github-readme-stats">
 </div>
@@ -18,7 +18,7 @@
 ## Linguagens, Frameworks e Ferramentas:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,js,html,git,css,figma,postgres,nodejs,react,sass" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=vscode,js,html,git,css,figma,postgres,nodejs,react,next,sass" style="max-width: 100%;">
 </div>
 <br>
   
